@@ -1,0 +1,5 @@
+{
+  "name": "Mixed Fraction Converter",
+  "description": "An interactive tool to convert improper fractions to mixed numbers with visual aids and AI-powered step-by-step explanations.",
+  "requestFramePermissions": []
+}
